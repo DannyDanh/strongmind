@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[demo.gif](https://github.com/DannyDanh/strongmind/blob/main/public/demo.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[demo.gif](https://github.com/DannyDanh/strongmind/blob/main/public/demo.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
